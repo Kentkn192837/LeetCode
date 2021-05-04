@@ -1,0 +1,7 @@
+*.txt
+*.exe
+*.dll
+*.bat
+
+# MacOS
+.DS_Store
