@@ -3,6 +3,7 @@
 *.dll
 *.bat
 __pycache__
+.ipynb_checkpoints
 
 # MacOS
 .DS_Store
